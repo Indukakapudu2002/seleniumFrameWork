@@ -1,0 +1,443 @@
+2023-03-02 21:26:55 INFO  seleniumlogs:13 - implementation
+  2023-03-02 21:26:59 INFO  seleniumlogs:20 - entering username and password
+  2023-03-02 21:27:02 INFO  seleniumlogs:27 - loging
+  2023-03-02 21:27:03 INFO  seleniumlogs:29 - login successful
+  2023-03-02 21:31:59 INFO  seleniumlogs:12 - implementation
+  2023-03-02 21:31:59 INFO  seleniumlogs:36 - invalid page
+  2023-03-02 21:32:56 INFO  seleniumlogs:12 - implementation
+  2023-03-02 21:33:00 INFO  seleniumlogs:21 - entering username and password
+  2023-03-02 21:33:00 INFO  seleniumlogs:25 - send username and password
+  2023-03-02 21:33:03 INFO  seleniumlogs:29 - loging
+  2023-03-02 21:33:05 INFO  seleniumlogs:31 - login successful
+  2023-03-02 21:59:33 INFO  seleniumlogs:12 - implementation
+  2023-03-02 21:59:37 INFO  seleniumlogs:21 - entering username and password
+  2023-03-02 21:59:37 INFO  seleniumlogs:25 - send username and password
+  2023-03-02 21:59:40 INFO  seleniumlogs:29 - loging
+  2023-03-02 21:59:42 INFO  seleniumlogs:31 - login successful
+  2023-03-03 14:31:35 INFO  seleniumlogs:12 - implementation
+  2023-03-03 14:31:39 INFO  seleniumlogs:21 - entering username and password
+  2023-03-03 14:31:39 INFO  seleniumlogs:25 - send username and password
+  2023-03-03 14:31:42 INFO  seleniumlogs:29 - loging
+  2023-03-03 14:31:43 INFO  seleniumlogs:31 - login successful
+  2023-03-03 21:24:08 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:25:11 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:27:33 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:31:52 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:31:56 INFO  seleniumlogs:21 - entering username and password
+  2023-03-03 21:31:56 INFO  seleniumlogs:24 - send username and password
+  2023-03-03 21:34:07 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:35:46 INFO  seleniumlogs:12 - implementation
+  2023-03-03 21:35:50 INFO  seleniumlogs:21 - entering username and password
+  2023-03-03 21:35:50 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 08:04:08 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:04:11 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:04:11 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 08:06:31 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:09:07 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:10:11 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:10:15 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:10:15 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 08:11:49 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:11:55 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:11:55 INFO  seleniumlogs:25 - send username and password
+  2023-03-05 08:13:12 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:13:16 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:13:16 INFO  seleniumlogs:25 - send username and password
+  2023-03-05 08:15:49 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:15:53 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:15:53 INFO  seleniumlogs:25 - send username and password
+  2023-03-05 08:15:56 INFO  seleniumlogs:29 - loging
+  2023-03-05 08:15:59 INFO  seleniumlogs:31 - login successful
+  2023-03-05 08:16:31 INFO  seleniumlogs:12 - implementation
+  2023-03-05 08:16:37 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 08:16:37 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 08:16:40 INFO  seleniumlogs:28 - loging
+  2023-03-05 08:16:41 INFO  seleniumlogs:30 - login successful
+  2023-03-05 10:44:18 INFO  seleniumlogs:12 - implementation
+  2023-03-05 10:44:22 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 10:44:22 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 10:44:26 INFO  seleniumlogs:28 - loging
+  2023-03-05 10:44:27 INFO  seleniumlogs:30 - login successful
+  2023-03-05 10:44:41 INFO  seleniumlogs:32 - search succesfully
+  2023-03-05 10:45:40 INFO  seleniumlogs:12 - implementation
+  2023-03-05 10:45:44 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 10:45:44 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 10:45:47 INFO  seleniumlogs:28 - loging
+  2023-03-05 10:45:49 INFO  seleniumlogs:30 - login successful
+  2023-03-05 10:46:02 INFO  seleniumlogs:32 - search succesfully
+  2023-03-05 10:50:38 INFO  seleniumlogs:12 - implementation
+  2023-03-05 10:50:42 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 10:50:42 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 10:50:45 INFO  seleniumlogs:28 - loging
+  2023-03-05 10:50:46 INFO  seleniumlogs:30 - login successful
+  2023-03-05 10:51:00 INFO  seleniumlogs:32 - search succesfully
+  2023-03-05 10:52:53 INFO  seleniumlogs:12 - implementation
+  2023-03-05 10:52:57 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 10:52:57 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 10:53:00 INFO  seleniumlogs:28 - loging
+  2023-03-05 10:53:01 INFO  seleniumlogs:30 - login successful
+  2023-03-05 10:53:14 INFO  seleniumlogs:32 - search succesfully
+  2023-03-05 11:19:53 INFO  seleniumlogs:12 - implementation
+  2023-03-05 11:19:58 INFO  seleniumlogs:21 - entering username and password
+  2023-03-05 11:19:58 INFO  seleniumlogs:24 - send username and password
+  2023-03-05 11:20:01 INFO  seleniumlogs:28 - loging
+  2023-03-05 11:20:02 INFO  seleniumlogs:30 - login successful
+  2023-03-05 11:20:17 INFO  seleniumlogs:32 - search succesfully
+  2023-03-05 11:33:59 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:34:03 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:34:03 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:34:06 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:34:07 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:34:20 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:36:50 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:36:54 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:36:54 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:36:57 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:36:58 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:37:11 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:38:12 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:38:17 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:38:17 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:38:20 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:38:21 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:38:34 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:39:48 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:39:52 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:39:52 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:39:55 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:39:56 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:40:10 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:45:42 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:45:46 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:45:46 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:45:50 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:45:51 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:46:05 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:49:18 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:49:20 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:49:24 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:49:24 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:49:25 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:49:25 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:49:27 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:49:28 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:49:29 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:49:29 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:49:42 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:49:43 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:50:38 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:50:43 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:50:43 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:50:46 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:50:47 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:51:00 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:53:28 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:53:32 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:53:32 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:53:36 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:53:37 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:53:51 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:56:39 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:56:44 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:56:44 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:56:47 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:56:48 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:57:02 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 11:57:45 INFO  seleniumlogs:16 - implementation
+  2023-03-05 11:57:50 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 11:57:50 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 11:57:53 INFO  seleniumlogs:32 - loging
+  2023-03-05 11:57:54 INFO  seleniumlogs:34 - login successful
+  2023-03-05 11:58:07 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:05:09 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:05:13 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:05:13 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:05:17 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:05:18 INFO  seleniumlogs:34 - login successful
+  2023-03-05 12:05:31 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:06:54 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:06:59 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:06:59 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:07:02 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:07:03 INFO  seleniumlogs:34 - login successful
+  2023-03-05 12:07:18 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:08:59 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:09:06 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:09:06 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:09:09 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:09:10 INFO  seleniumlogs:34 - login successful
+  2023-03-05 12:09:41 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:17:04 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:17:08 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:17:08 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:17:11 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:17:14 INFO  seleniumlogs:34 - login successful
+  2023-03-05 12:17:29 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:17:48 INFO  seleniumlogs:49 - applied fileters successfully
+  2023-03-05 12:32:04 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:32:08 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:32:08 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:32:12 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:33:19 INFO  seleniumlogs:16 - implementation
+  2023-03-05 12:33:25 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 12:33:25 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 12:33:28 INFO  seleniumlogs:32 - loging
+  2023-03-05 12:33:29 INFO  seleniumlogs:34 - login successful
+  2023-03-05 12:33:42 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 12:34:02 INFO  seleniumlogs:49 - applied fileters successfully
+  2023-03-05 13:15:10 INFO  seleniumlogs:16 - implementation
+  2023-03-05 13:15:13 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 13:15:13 INFO  seleniumlogs:28 - send username and password
+  2023-03-05 13:15:17 INFO  seleniumlogs:32 - loging
+  2023-03-05 13:15:18 INFO  seleniumlogs:34 - login successful
+  2023-03-05 13:15:33 INFO  seleniumlogs:36 - search succesfully
+  2023-03-05 13:15:53 INFO  seleniumlogs:49 - applied fileters successfully
+  2023-03-05 13:26:24 INFO  seleniumlogs:16 - implementation
+  2023-03-05 13:27:59 INFO  seleniumlogs:16 - implementation
+  2023-03-05 13:30:11 INFO  seleniumlogs:16 - implementation
+  2023-03-05 13:30:17 INFO  seleniumlogs:25 - entering username and password
+  2023-03-05 13:30:17 INFO  seleniumlogs:29 - send username and password
+  2023-03-05 13:30:20 INFO  seleniumlogs:33 - loging
+  2023-03-05 16:22:13 INFO  seleniumlogs:14 - implementation
+  2023-03-05 16:22:17 INFO  seleniumlogs:23 - entering username and password
+  2023-03-05 16:22:17 INFO  seleniumlogs:27 - send username and password
+  2023-03-05 16:22:20 INFO  seleniumlogs:31 - loging
+  2023-03-05 16:22:22 INFO  seleniumlogs:33 - login successful
+  2023-03-05 16:22:36 INFO  seleniumlogs:35 - search succesfully
+  2023-03-05 16:28:12 INFO  seleniumlogs:14 - implementation
+  2023-03-05 16:28:16 INFO  seleniumlogs:23 - entering username and password
+  2023-03-05 16:28:16 INFO  seleniumlogs:27 - send username and password
+  2023-03-05 16:28:20 INFO  seleniumlogs:31 - loging
+  2023-03-05 16:28:21 INFO  seleniumlogs:33 - login successful
+  2023-03-05 16:28:34 INFO  seleniumlogs:35 - search succesfully
+  2023-03-05 16:30:59 INFO  seleniumlogs:14 - implementation
+  2023-03-05 16:31:03 INFO  seleniumlogs:23 - entering username and password
+  2023-03-05 16:31:03 INFO  seleniumlogs:27 - send username and password
+  2023-03-05 16:31:06 INFO  seleniumlogs:31 - loging
+  2023-03-05 16:31:07 INFO  seleniumlogs:33 - login successful
+  2023-03-05 16:31:23 INFO  seleniumlogs:35 - search succesfully
+  2023-03-05 16:31:42 INFO  seleniumlogs:54 - applied fileters successfully
+  2023-03-05 16:35:16 INFO  seleniumlogs:14 - implementation
+  2023-03-05 16:35:20 INFO  seleniumlogs:23 - entering username and password
+  2023-03-05 16:35:20 INFO  seleniumlogs:27 - send username and password
+  2023-03-05 16:35:24 INFO  seleniumlogs:31 - loging
+  2023-03-05 16:35:25 INFO  seleniumlogs:33 - login successful
+  2023-03-05 16:35:39 INFO  seleniumlogs:35 - search succesfully
+  2023-03-05 16:35:58 INFO  seleniumlogs:54 - applied fileters successfully
+  2023-03-06 17:30:30 INFO  seleniumlogs:14 - implementation
+  2023-03-06 17:30:34 INFO  seleniumlogs:23 - entering username and password
+  2023-03-06 17:30:34 INFO  seleniumlogs:27 - send username and password
+  2023-03-06 17:30:37 INFO  seleniumlogs:35 - loging
+  2023-03-06 17:30:38 INFO  seleniumlogs:37 - login successful
+  2023-03-06 17:30:48 INFO  seleniumlogs:40 - search succesfully
+  2023-03-06 17:30:58 ERROR seleniumlogs:56 - enter the number of titles correctly
+  2023-03-06 17:31:07 INFO  seleniumlogs:59 - applied fileters successfully
+  2023-03-07 12:33:54 INFO  seleniumlogs:48 - entering username and password
+  2023-03-07 12:33:54 INFO  seleniumlogs:52 - send username and password
+  2023-03-07 12:33:56 INFO  seleniumlogs:60 - loging
+  2023-03-07 12:44:57 INFO  seleniumlogs:48 - entering username and password
+  2023-03-07 12:44:57 INFO  seleniumlogs:52 - send username and password
+  2023-03-07 12:44:59 INFO  seleniumlogs:60 - loging
+  2023-03-07 12:46:31 INFO  seleniumlogs:48 - entering username and password
+  2023-03-07 12:46:31 INFO  seleniumlogs:52 - send username and password
+  2023-03-07 12:46:33 INFO  seleniumlogs:60 - loging
+  2023-03-07 12:47:20 INFO  seleniumlogs:48 - entering username and password
+  2023-03-07 12:47:20 INFO  seleniumlogs:52 - send username and password
+  2023-03-07 12:47:22 INFO  seleniumlogs:60 - loging
+  2023-03-07 12:57:45 INFO  seleniumlogs:49 - entering username and password
+  2023-03-07 12:57:45 INFO  seleniumlogs:53 - send username and password
+  2023-03-07 12:57:47 INFO  seleniumlogs:61 - loging
+  2023-03-07 12:59:44 INFO  seleniumlogs:49 - entering username and password
+  2023-03-07 12:59:44 INFO  seleniumlogs:53 - send username and password
+  2023-03-07 12:59:46 INFO  seleniumlogs:61 - loging
+  2023-03-07 13:02:28 INFO  seleniumlogs:49 - entering username and password
+  2023-03-07 13:02:28 INFO  seleniumlogs:53 - send username and password
+  2023-03-07 13:02:31 INFO  seleniumlogs:61 - loging
+  2023-03-07 13:03:48 INFO  seleniumlogs:50 - entering username and password
+  2023-03-07 13:03:48 INFO  seleniumlogs:54 - send username and password
+  2023-03-07 13:03:50 INFO  seleniumlogs:62 - loging
+  2023-03-07 13:58:04 INFO  seleniumlogs:50 - entering username and password
+  2023-03-07 13:58:04 INFO  seleniumlogs:54 - send username and password
+  2023-03-07 13:58:06 INFO  seleniumlogs:62 - loging
+  2023-03-07 14:03:25 INFO  seleniumlogs:50 - entering username and password
+  2023-03-07 14:03:25 INFO  seleniumlogs:54 - send username and password
+  2023-03-07 14:03:27 INFO  seleniumlogs:62 - loging
+  2023-03-07 14:05:45 INFO  seleniumlogs:49 - entering username and password
+  2023-03-07 14:05:45 INFO  seleniumlogs:53 - send username and password
+  2023-03-07 14:05:47 INFO  seleniumlogs:61 - loging
+  2023-03-07 14:12:00 INFO  seleniumlogs:62 - entering username and password
+  2023-03-07 14:12:00 INFO  seleniumlogs:66 - send username and password
+  2023-03-07 14:12:02 INFO  seleniumlogs:74 - loging
+  2023-03-07 14:13:37 INFO  seleniumlogs:62 - entering username and password
+  2023-03-07 14:13:37 INFO  seleniumlogs:66 - send username and password
+  2023-03-07 14:13:39 INFO  seleniumlogs:74 - loging
+  2023-03-07 14:15:33 INFO  seleniumlogs:62 - entering username and password
+  2023-03-07 14:15:33 INFO  seleniumlogs:66 - send username and password
+  2023-03-07 14:15:35 INFO  seleniumlogs:74 - loging
+  2023-03-07 14:16:50 INFO  seleniumlogs:57 - entering username and password
+  2023-03-07 14:16:50 INFO  seleniumlogs:61 - send username and password
+  2023-03-07 14:16:52 INFO  seleniumlogs:69 - loging
+  2023-03-07 14:19:29 INFO  seleniumlogs:57 - entering username and password
+  2023-03-07 14:19:29 INFO  seleniumlogs:61 - send username and password
+  2023-03-07 14:19:31 INFO  seleniumlogs:69 - loging
+  2023-03-07 14:53:45 INFO  seleniumlogs:14 - implementation
+  2023-03-07 15:00:07 INFO  seleniumlogs:14 - implementation
+  2023-03-07 15:46:31 INFO  seleniumlogs:57 - entering username and password
+  2023-03-07 15:46:31 INFO  seleniumlogs:61 - send username and password
+  2023-03-07 15:46:33 INFO  seleniumlogs:69 - loging
+  2023-03-07 16:27:13 INFO  seleniumlogs:37 - entering username and password
+  2023-03-07 16:27:13 INFO  seleniumlogs:41 - send username and password
+  2023-03-07 16:27:16 INFO  seleniumlogs:48 - loging
+  2023-03-07 17:18:00 INFO  seleniumlogs:37 - entering username and password
+  2023-03-07 17:18:00 INFO  seleniumlogs:41 - send username and password
+  2023-03-07 17:18:02 INFO  seleniumlogs:48 - loging
+  2023-03-07 17:26:57 INFO  seleniumlogs:37 - entering username and password
+  2023-03-07 17:26:57 INFO  seleniumlogs:41 - send username and password
+  2023-03-07 17:26:59 INFO  seleniumlogs:48 - loging
+  2023-03-07 17:42:35 INFO  seleniumlogs:14 - implementation
+  2023-03-07 17:42:39 INFO  seleniumlogs:23 - entering username and password
+  2023-03-07 17:42:39 INFO  seleniumlogs:27 - send username and password
+  2023-03-07 17:42:42 INFO  seleniumlogs:34 - loging
+  2023-03-07 17:42:44 INFO  seleniumlogs:36 - login successful
+  2023-03-07 17:42:50 INFO  seleniumlogs:39 - search succesfully
+  2023-03-07 17:43:01 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-07 17:43:10 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-07 17:47:30 INFO  seleniumlogs:37 - entering username and password
+  2023-03-07 17:47:30 INFO  seleniumlogs:41 - send username and password
+  2023-03-07 17:47:32 INFO  seleniumlogs:48 - loging
+  2023-03-07 17:47:49 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-07 18:15:06 INFO  seleniumlogs:37 - entering username and password
+  2023-03-07 18:15:06 INFO  seleniumlogs:41 - send username and password
+  2023-03-07 18:15:08 INFO  seleniumlogs:48 - loging
+  2023-03-07 18:15:24 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-07 18:17:20 ERROR seleniumlogs:41 - enter the number of titles correctly
+  2023-03-07 18:17:20 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-07 18:19:39 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-08 07:41:25 INFO  seleniumlogs:14 - implementation
+  2023-03-08 07:41:29 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 07:41:29 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 07:41:32 INFO  seleniumlogs:35 - loging
+  2023-03-08 07:41:33 INFO  seleniumlogs:37 - login successful
+  2023-03-08 07:41:49 INFO  seleniumlogs:40 - search succesfully
+  2023-03-08 07:44:25 INFO  seleniumlogs:14 - implementation
+  2023-03-08 07:44:29 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 07:44:29 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 07:44:33 INFO  seleniumlogs:35 - loging
+  2023-03-08 07:44:34 INFO  seleniumlogs:37 - login successful
+  2023-03-08 07:44:51 INFO  seleniumlogs:40 - search succesfully
+  2023-03-08 07:45:02 INFO  seleniumlogs:55 - succesfully loaded 50 titles
+  2023-03-08 07:45:11 INFO  seleniumlogs:58 - applied fileters successfully
+  2023-03-08 07:59:58 INFO  seleniumlogs:39 - entering username and password
+  2023-03-08 07:59:58 INFO  seleniumlogs:43 - send username and password
+  2023-03-08 08:00:01 INFO  seleniumlogs:50 - loging
+  2023-03-08 08:00:03 INFO  seleniumlogs:52 - login successful
+  2023-03-08 08:00:19 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-08 08:02:43 INFO  seleniumlogs:39 - entering username and password
+  2023-03-08 08:02:43 INFO  seleniumlogs:43 - send username and password
+  2023-03-08 08:02:47 INFO  seleniumlogs:50 - loging
+  2023-03-08 08:02:48 INFO  seleniumlogs:52 - login successful
+  2023-03-08 08:03:05 INFO  seleniumlogs:43 - succesfully loaded 50 titles
+  2023-03-08 08:09:48 INFO  seleniumlogs:14 - implementation
+  2023-03-08 08:09:51 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 08:09:51 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 08:10:46 INFO  seleniumlogs:14 - implementation
+  2023-03-08 08:10:50 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 08:10:50 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 08:10:53 INFO  seleniumlogs:35 - loging
+  2023-03-08 08:10:54 INFO  seleniumlogs:37 - login successful
+  2023-03-08 08:11:08 INFO  seleniumlogs:40 - search succesfully
+  2023-03-08 10:48:40 INFO  seleniumlogs:14 - implementation
+  2023-03-08 10:48:43 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 10:48:43 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 10:48:47 INFO  seleniumlogs:35 - loging
+  2023-03-08 10:48:47 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:00:39 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:00:42 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:00:42 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:00:45 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:01:23 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:01:26 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:01:26 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:01:29 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:01:30 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:01:33 INFO  seleniumlogs:40 - search succesfully
+  2023-03-08 11:01:48 INFO  seleniumlogs:55 - succesfully loaded 50 titles
+  2023-03-08 11:01:57 INFO  seleniumlogs:58 - applied fileters successfully
+  2023-03-08 11:03:44 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:03:49 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:03:49 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:03:52 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:03:53 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:03:56 INFO  seleniumlogs:40 - search succesfully
+  2023-03-08 11:04:09 INFO  seleniumlogs:55 - succesfully loaded 50 titles
+  2023-03-08 11:04:18 INFO  seleniumlogs:58 - applied fileters successfully
+  2023-03-08 11:05:25 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:05:29 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:05:29 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:05:32 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:05:33 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:05:37 INFO  seleniumlogs:39 - search succesfully
+  2023-03-08 11:05:51 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-08 11:06:00 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-08 11:07:01 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:07:04 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:07:04 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:07:07 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:07:09 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:07:15 INFO  seleniumlogs:39 - search succesfully
+  2023-03-08 11:07:25 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-08 11:07:34 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-08 11:08:13 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:08:17 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:08:17 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:10:02 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:10:08 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:10:08 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:10:11 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:10:12 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:10:15 INFO  seleniumlogs:39 - search succesfully
+  2023-03-08 11:10:29 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-08 11:10:40 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-08 11:11:31 INFO  seleniumlogs:14 - implementation
+  2023-03-08 11:11:33 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 11:11:33 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 11:11:37 INFO  seleniumlogs:35 - loging
+  2023-03-08 11:11:37 INFO  seleniumlogs:37 - login successful
+  2023-03-08 11:11:40 INFO  seleniumlogs:39 - search succesfully
+  2023-03-08 11:11:54 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-08 11:12:05 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-08 11:41:27 INFO  seleniumlogs:41 - entering username and password
+  2023-03-08 11:41:27 INFO  seleniumlogs:45 - send username and password
+  2023-03-08 11:41:30 INFO  seleniumlogs:52 - loging
+  2023-03-08 11:41:32 INFO  seleniumlogs:54 - login successful
+  2023-03-08 11:41:48 INFO  seleniumlogs:44 - succesfully loaded 50 titles
+  2023-03-08 12:13:21 INFO  seleniumlogs:41 - entering username and password
+  2023-03-08 12:13:21 INFO  seleniumlogs:45 - send username and password
+  2023-03-08 12:13:24 INFO  seleniumlogs:52 - loging
+  2023-03-08 12:13:25 INFO  seleniumlogs:54 - login successful
+  2023-03-08 12:13:41 INFO  seleniumlogs:44 - succesfully loaded 50 titles
+  2023-03-08 16:30:22 INFO  seleniumlogs:14 - implementation
+  2023-03-08 16:30:28 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 16:30:28 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 16:48:23 INFO  seleniumlogs:14 - implementation
+  2023-03-08 16:48:26 INFO  seleniumlogs:24 - entering username and password
+  2023-03-08 16:48:26 INFO  seleniumlogs:28 - send username and password
+  2023-03-08 16:48:29 INFO  seleniumlogs:35 - loging
+  2023-03-08 16:48:30 INFO  seleniumlogs:37 - login successful
+  2023-03-08 16:48:33 INFO  seleniumlogs:39 - search succesfully
+  2023-03-08 16:48:47 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-08 16:48:56 INFO  seleniumlogs:57 - applied fileters successfully
+  2023-03-13 15:58:25 INFO  seleniumlogs:41 - entering username and password
+  2023-03-13 15:58:25 INFO  seleniumlogs:45 - send username and password
+  2023-03-13 15:58:28 INFO  seleniumlogs:52 - loging
+  2023-03-13 15:58:30 INFO  seleniumlogs:54 - login successful
+  2023-03-13 15:58:45 INFO  seleniumlogs:44 - succesfully loaded 50 titles
+  2023-03-14 15:05:07 INFO  seleniumlogs:14 - implementation
+  2023-03-14 15:05:10 INFO  seleniumlogs:24 - entering username and password
+  2023-03-14 15:05:10 INFO  seleniumlogs:28 - send username and password
+  2023-03-14 15:05:13 INFO  seleniumlogs:35 - loging
+  2023-03-14 15:05:14 INFO  seleniumlogs:37 - login successful
+  2023-03-14 15:05:17 INFO  seleniumlogs:39 - search succesfully
+  2023-03-14 15:05:32 INFO  seleniumlogs:54 - succesfully loaded 50 titles
+  2023-03-14 15:05:43 INFO  seleniumlogs:57 - applied fileters successfully
+  
