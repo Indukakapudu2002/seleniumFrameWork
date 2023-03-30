@@ -18,7 +18,7 @@ public class Test4  extends TestBase {
         applyfileters(driver);
         String s = driver.findElement(By.xpath("//label[@id='downshift-2-label']")).getText();
         System.out.println(s);
-        if (s.contains("jan")) {
+        if (s.contains("Jan")) {
             link_test.pass("filters applied");
         } else {
             link_test.fail("Test Failed", MediaEntityBuilder.createScreenCaptureFromPath(getScreenshot(driver)).build());
